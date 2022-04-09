@@ -6,7 +6,7 @@ Video :
 
 https://user-images.githubusercontent.com/72383774/162562534-db0622cd-4d1c-4598-8a11-1e1f4654cbd1.mp4
 
-Link for video : https://github.com/AkshaySiddannavar/TapDice/blob/main/tap_dice_video.mp4
+Link for video : https://github.com/AkshaySiddannavar/Magic_8_Ball/blob/main/Magic_8_Ball_Video.mp4
 
 - What the project does  
 It gives a magic 8 ball which can help you make descisions in life  
