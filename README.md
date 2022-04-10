@@ -30,3 +30,16 @@ You can :
 - Who maintains and contributes to the project  
   
   I will be maintaining this project and you all are free to contribute to this project.
+
+```diff
+- ## Disclaimer :
+- 'This App' means Xylophone App which has been uploaded on this repository
+- 'I' means the author Akshay Siddannavar
+- 'Contributors' refers to anyone contributing to this project in any manner
+
+- This App shouldn't be used to make serious/important decisions
+- Use of this app for making decisions is choice of the user(s)
+- I or anyone contributing to this project is not going to be responsible under any circumstances for any outcomes due to users following decisions given by this app
+- ONLY USE THIS PROJECT IF YOU'RE AGREEING TO ABOVE GIVEN DISCLAIMER
+- BY USING THIS PROJECT IN ANY MANNER YOU CONSENT TO AGREE WITH ABOVE GIVEN DISCLAIMER
+```
