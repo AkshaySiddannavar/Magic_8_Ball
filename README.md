@@ -33,7 +33,7 @@ You can :
 
 ```diff
 - ## Disclaimer :
-- 'This App' means Xylophone App which has been uploaded on this repository
+- 'This App' means Magic 8 Ball App which has been uploaded on this repository
 - 'I' means the author Akshay Siddannavar
 - 'Contributors' refers to anyone contributing to this project in any manner
 
